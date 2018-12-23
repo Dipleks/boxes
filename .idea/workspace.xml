@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="882b93ef-07ef-4aa1-860a-d0bf1952425a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/appearance/MainWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataBase/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/eventHandling/Management.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../school/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../school/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../school/.idea/modules.xml" afterDir="false" />
